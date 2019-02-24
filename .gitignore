@@ -1,0 +1,5 @@
+model.bin
+.vscode/*
+__pycache__/*
+model.bin.optim
+.idea/*
